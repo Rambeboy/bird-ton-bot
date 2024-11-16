@@ -45,6 +45,8 @@ npm install
 
   ```bash
   query_id=1234567890
+  query_id=1234567890
+  query_id=1234567890
   ```
 
 ## Configuration

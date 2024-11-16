@@ -41,6 +41,12 @@ npm install
 
 3. Edit `data.txt` file in the project root and paste your initialization data. You can add multiple accounts by putting each initialization data on a new line.
 
+- Example:
+
+  ```bash
+  query_id=1234567890
+  ```
+
 ## Configuration
 
 The bot comes with default configurations, but you can modify them in the `config` folder:
